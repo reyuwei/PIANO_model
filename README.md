@@ -7,7 +7,8 @@ PIANOLayer is a differentiable PyTorch layer that deterministically maps from po
 It can be integrated into any architecture as a differentiable layer to predict bone meshes for data-driven fine-grained hand bone anatomic and semantic understanding from MRI or even RGB images.
 
 To learn about PIANO, please visit our website: https://liyuwei.cc/proj/piano
-You can find the HTML paper at: https://www.ijcai.org/proceedings/2021/0113.pdf
+
+You can find the PIANO paper at: https://www.ijcai.org/proceedings/2021/0113.pdf
 
 ---
 
