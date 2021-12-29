@@ -1,3 +1,8 @@
+'''
+    PIANO: A Parametric Hand Bone Model from Magnetic Resonance Imaging [IJCAI-21]
+    https://reyuwei.github.io/proj/piano
+'''
+
 import torch
 import numpy as np
 from utils import th_posemap_axisang_2output, batch_rodrigues, th_with_zeros, th_pack

@@ -1,3 +1,8 @@
+'''
+    PIANO: A Parametric Hand Bone Model from Magnetic Resonance Imaging [IJCAI-21]
+    https://reyuwei.github.io/proj/piano
+'''
+
 import torch
 
 def quat2aa(quats):
