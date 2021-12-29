@@ -1,0 +1,4 @@
+ignore/*
+snapshot*
+*.pyc
+__pycache__/*
