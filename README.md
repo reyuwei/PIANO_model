@@ -52,7 +52,7 @@ It reuses part of the great code from
 If you find this code useful for your research, consider citing:
 
 ```
-@inproceedings{ijcai2021-113,
+@inproceedings{li2021piano,
   title     = {PIANO: A Parametric Hand Bone Model from Magnetic Resonance Imaging},
   author    = {Li, Yuwei and Wu, Minye and Zhang, Yuyao and Xu, Lan and Yu, Jingyi},
   booktitle = {Proceedings of the Thirtieth International Joint Conference on
@@ -62,9 +62,9 @@ If you find this code useful for your research, consider citing:
   pages     = {816--822},
   year      = {2021},
   month     = {8},
-  note      = {Main Track}
+  note      = {Main Track},
   doi       = {10.24963/ijcai.2021/113},
-  url       = {https://doi.org/10.24963/ijcai.2021/113},
+  url       = {https://doi.org/10.24963/ijcai.2021/113}
 }
 
 ```
