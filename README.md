@@ -52,10 +52,19 @@ It reuses part of the great code from
 If you find this code useful for your research, consider citing:
 
 ```
-@inproceedings{li2021piano,
-title={PIANO: A Parametric Hand Bone Model from Magnetic Resonance Imaging},
-author={Yuwei, Li and Minye, Wu and Yuyao, Zhang and Lan, Xu and Jingyi, Yu},
-booktitle={Proceedings of the 30th International Joint Conference on Artificial Intelligence, {IJCAI-21}},
-year={2021}
+@inproceedings{ijcai2021-113,
+  title     = {PIANO: A Parametric Hand Bone Model from Magnetic Resonance Imaging},
+  author    = {Li, Yuwei and Wu, Minye and Zhang, Yuyao and Xu, Lan and Yu, Jingyi},
+  booktitle = {Proceedings of the Thirtieth International Joint Conference on
+               Artificial Intelligence, {IJCAI-21}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Zhi-Hua Zhou},
+  pages     = {816--822},
+  year      = {2021},
+  month     = {8},
+  note      = {Main Track}
+  doi       = {10.24963/ijcai.2021/113},
+  url       = {https://doi.org/10.24963/ijcai.2021/113},
 }
+
 ```
