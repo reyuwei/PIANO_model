@@ -12,7 +12,7 @@ You can find the PIANO paper at: https://www.ijcai.org/proceedings/2021/0113.pdf
 
 ---
 
-For comments or questions, please email us at: Yuwei Li (liyw@shanghaitech.edu.cn)
+For comments or questions, please email us at: Yuwei Li (liyw@alumni.shanghaitech.edu.cn)
 
 
 System Requirements:
